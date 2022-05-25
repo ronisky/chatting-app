@@ -1,10 +1,9 @@
-# Go-Chatting-App
+# Chatting-App
 ### _This simple Chatting App_
 ### Running
 - Clone Project (https://github.com/ronisky/chatting-app.git)
 ```sh
 cd chatting-app
-go build
 go run main.go
 ```
 >project running on port 8090
